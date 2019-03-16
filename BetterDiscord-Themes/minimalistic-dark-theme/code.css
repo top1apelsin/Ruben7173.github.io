@@ -1,6 +1,11 @@
+/* gift nitro button hide */
+.da-buttons > .da-buttonWrapper {
+    display: none;
+}
+
 /* Background */
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
-    background:url('https://i.imgur.com/hwseeIN.jpg');
+    background:url('https://i.imgur.com/5DMVUdL.jpg');
 }
 
 /* Adds transparency color to settings */
@@ -479,7 +484,7 @@
 
 /* Background Changer */
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
-    background:url('https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Photos-Dark-1920x1080-PIC-WPD009376.jpg');
+    background:url('https://i.imgur.com/5DMVUdL.jpg');
 }
 
 /* Preview box at Voice & Videe at settings, background color */
